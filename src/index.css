@@ -32,3 +32,13 @@ h2 {
   max-width: 1024px;
   margin: 0 auto;
 }
+
+button {
+  background-color: #4b5362;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 30px;
+}
